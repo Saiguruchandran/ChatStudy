@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+### NAME: SAIGURUCHANDRAN
+### REG NO: 212223240143
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -120,7 +122,11 @@ while 1:
     print()
 ```
 ## Output:
-![Screenshot 2024-04-05 103017](https://github.com/22008837/ChatStudy/assets/120194155/eb98333c-39e4-4b1c-8976-8b6fcfb868a9)
+## CLIENT:
+![WhatsApp Image 2024-05-06 at 14 17 58_d7a55bc3](https://github.com/Saiguruchandran/ChatStudy/assets/144870946/3ae7efb4-9056-47a0-9c13-12c3257f0ba1)
+
+## SERVER
+![WhatsApp Image 2024-05-06 at 14 18 15_de4bb0c6](https://github.com/Saiguruchandran/ChatStudy/assets/144870946/ca726739-cede-410b-ae15-1a5af4ba3bed)
 
 ## Result:
 
